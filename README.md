@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Anuraag-8/Anuraag-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,6 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anuraag.cbit@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Plant Based 🌱
-
-
-
